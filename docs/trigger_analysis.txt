@@ -1,0 +1,38 @@
+============================================================
+TOP WORDS TRIGGERING DETECTION IN HUMANIZED TEXT
+============================================================
+WORD                 COUNT      AI SCORE  
+----------------------------------------
+success              103        1.50
+evidence             100        1.02
+consider             97         1.17
+quality              97         2.00
+road                 97         1.45
+attention            96         1.07
+significant          96         1.61
+and                  96         2.02
+health               95         1.39
+school               94         1.21
+learn                93         1.77
+positive             93         1.05
+my                   92         1.22
+support              92         1.11
+any                  91         1.12
+lead                 90         1.11
+face                 89         1.96
+several              89         1.03
+name                 86         1.71
+often                83         1.12
+believe              80         1.00
+can                  79         2.00
+important            77         2.13
+system               76         1.46
+public               72         1.33
+education            70         2.05
+address              65         1.16
+
+============================================================
+INTERPRETATION
+These are the words that the Baseline model (trained ONLY on AI Raw)
+is finding inside the Humanized text.
+If these are common words, it proves the 'Vocabulary Hypothesis'.

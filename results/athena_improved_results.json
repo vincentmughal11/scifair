@@ -1,0 +1,7 @@
+{
+    "test_accuracy": 0.9892071398920714,
+    "data_source": "athena_original + user_humanized",
+    "train_samples": 9636,
+    "test_samples": 2409,
+    "humanized_samples": 1045
+}

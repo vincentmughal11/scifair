@@ -1,0 +1,6 @@
+{
+    "test_accuracy": 0.9881818181818182,
+    "data_source": "athena_original",
+    "train_samples": 8800,
+    "test_samples": 2200
+}

@@ -1,0 +1,55 @@
+SAMPLE 2078
+================================================================================
+ Limiting car usage is a concept that has gained significant attention in recent years due to its potential benefits. Advocates of this movement argue that by reducing car usage, society can experience numerous advantages, such as improved air quality and reduced greenhouse gas emissions. One example of
+
+Prediction: AI
+Confidence: 82.77%
+
+================================================================================
+
+SAMPLE 2275
+================================================================================
+
+Excerpt:
+In this project, your group will explore a science or math topic related to animals. Research facts and information about the topic and work together as a team to create a project that you will present to the class. Your project must be completed in order for your group to receive a reward of candy.  Good luck and have fun!
+
+Prediction: AI
+Confidence: 79.87%
+
+================================================================================
+
+SAMPLE 2247
+================================================================================
+These days I notice the stress around me. The stress shows, up everywhere at work. The stress is a part of life but the stress can become a problem if the stress is not managed properly.
+
+What is the important thing you have learned in your career so far? What advice would you give to someone who is just starting out in an AI/ML career?
+
+
+
+Prediction: AI
+Confidence: 61.10%
+
+================================================================================
+
+SAMPLE 2055
+================================================================================
+ Summer projects are a great way for students to gain valuable experience and skills outside of the classroom. Whether you are looking to build your resume, gain
+
+Prediction: AI
+Confidence: 86.16%
+
+================================================================================
+
+SAMPLE 2388
+================================================================================
+I think education lasts a life. If you want to be a doctor you have to go to the school. Education does not happen in your 20s. Education does not happen in your 30s.
+
+I would like to know what you think is the important thing a person should learn to become a successful business owner. I would also like to know what advice you would give to a person who wants to start a business.
+
+
+
+Prediction: AI
+Confidence: 55.23%
+
+================================================================================
+

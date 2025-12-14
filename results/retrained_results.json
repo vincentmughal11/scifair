@@ -1,0 +1,22 @@
+{
+    "baseline_std": {
+        "accuracy": 0.9916666666666667,
+        "fpr": 0.008,
+        "fnr": 0.008666666666666666
+    },
+    "improved_std": {
+        "accuracy": 0.9913333333333333,
+        "fpr": 0.008666666666666666,
+        "fnr": 0.008666666666666666
+    },
+    "baseline_hum": {
+        "accuracy": 1.0,
+        "fpr": 0,
+        "fnr": 0
+    },
+    "improved_hum": {
+        "accuracy": 1.0,
+        "fpr": 0,
+        "fnr": 0
+    }
+}
