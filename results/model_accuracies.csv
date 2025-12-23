@@ -1,0 +1,8 @@
+Model,Baseline Standard Accuracy,Improved Standard Accuracy
+TF-IDF,99.17%,99.13%
+Structure,86.80%,86.83%
+Hybrid,98.77%,98.80%
+Perplexity (Single),90.00%,50.00%
+Perplexity (Enhanced),70.30%,42.80%
+Transformer,99.67%,99.84%
+Athena,98.82%,98.92%

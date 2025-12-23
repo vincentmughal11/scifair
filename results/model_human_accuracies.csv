@@ -1,0 +1,8 @@
+Model,Baseline Human Accuracy,Improved Human Accuracy
+TF-IDF,99.47%,99.40%
+Structure,87.73%,87.60%
+Hybrid,99.33%,99.33%
+Perplexity (Single),78.07%,0.00%
+Perplexity (Enhanced),49.73%,19.47%
+Transformer,99.93%,99.93%
+Athena,100.00%,100.00%

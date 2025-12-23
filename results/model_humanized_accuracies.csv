@@ -1,0 +1,8 @@
+Model,Baseline Humanized Accuracy,Improved Humanized Accuracy
+TF-IDF,100.00%,100.00%
+Structure,100.00%,100.00%
+Hybrid,100.00%,100.00%
+Perplexity (Single),0.00%,100.00%
+Perplexity (Enhanced),0.00%,100.00%
+Transformer,0.00%,100.00%
+Athena,0.00%,100.00%
